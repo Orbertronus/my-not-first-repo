@@ -12,3 +12,7 @@ The castle was guarded by vesrion control system named Git, a wise and powerful 
 One day, Alice received a royal decree from the kingdom's software development council.
 They tasked her with creating a new feature for the kingdom's flagship application,
 the Royal Code Compiler. Excited and determined, Alice set out on her quest to implement the feature.
+
+As she delved into her work, Alice encountered challenges and uncertainties. She realized that making
+changes to the codebase was like navigating through a dense forest, and she needed a way to track her
+progress and ensure she could easily undo any missteps.
