@@ -1,0 +1,10 @@
+Some  story about git works.
+
+Once upon a time in the bustling kingdom of Codeburg, there lived  a young and
+ambitious programmer named Alice. Alice was known far and wide for her brilliant
+mind and her ability to craft intricate and elegant code. She spend her days working on
+various projects, always seeking  to improve and innovate.
+
+In the heart Codeburg, there was a majestic castle known as Repository Fortress. It
+was the pepository that stored the source code of the kingdom's most critical projects
+The castle was guarded by vesrion control system named Git, a wise and powerful guardian.
