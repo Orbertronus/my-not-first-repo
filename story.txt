@@ -18,3 +18,5 @@ changes to the codebase was like navigating through a dense forest, and she need
 progress and ensure she could easily undo any missteps.
 
 print('function 1 branch2')
+
+print('function 2  seq branch2')
