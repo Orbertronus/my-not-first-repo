@@ -17,13 +17,8 @@ As she delved into her work, Alice encountered challenges and uncertainties. She
 changes to the codebase was like navigating through a dense forest, and she needed a way to track her
 progress and ensure she could easily undo any missteps.
 
-Remembering the tales of Git, the version control guardian of Repository Fortress, Alice decided
-to seek its guidance. She approached the castle gates and, with a humble heart, requested Git's
-assistance.
+print('function 1 branch2')
 
-print("This non original srory about Alise in Git branch feature1")
+print('function 2  seq branch2')
 
-print('function main in branch feature1')
-
-print('function seq in branch feature1')
-
+print('func 3 main body prg branch2')
